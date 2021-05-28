@@ -34,7 +34,7 @@ HOW TO RUN:
   ```
  3. Activate the enviroment 
   ```
-  YOUR_ENVIROMENT_NAME/Scripts/activate
+  YOUR_ENVIROMENT_NAME\Scripts\activate
   ```
  4. Install requirements 
   ```
