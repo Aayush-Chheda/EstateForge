@@ -1,5 +1,5 @@
 # django-hotel
-Hotel Management System
+Real Estate Management System
 
 __________________________________
 A project by 3 Second Year students from KJSCE which uses 
