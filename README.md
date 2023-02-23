@@ -1,4 +1,4 @@
-# django-hotel
+# EstateForge
 Real Estate Management System
 
 __________________________________
